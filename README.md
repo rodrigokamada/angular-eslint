@@ -104,3 +104,25 @@ All files pass linting.
 ```
 
 **4.** Ready! The message *All files pass linting.* shows that no problem was found.
+
+
+
+## Cloning the application
+
+**1.** Clone the repository.
+
+```shell
+git clone git@github.com:rodrigokamada/angular-eslint.git
+```
+
+**2.** Install the dependencies.
+
+```shell
+npm ci
+```
+
+**3.** Run the lint.
+
+```shell
+npm run lint
+```
