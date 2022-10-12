@@ -1,6 +1,9 @@
 # Angular ESLint
 
 
+Application example built with Angular 14 and adding the ESLint using @angular-eslint/schematics library.
+
+
 
 [![Website](https://shields.braskam.com/v1/shields?name=website&format=rectangle&size=small&radius=5)](https://rodrigo.kamada.com.br)
 [![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small&radius=5)](https://www.linkedin.com/in/rodrigokamada)
