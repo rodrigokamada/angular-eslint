@@ -1,7 +1,7 @@
 # Angular ESLint
 
 
-Application example built with Angular 14 and adding the ESLint using @angular-eslint/schematics library.
+Application example built with [Angular](https://angular.io) 14 and adding the ESLint using [@angular-eslint/schematics](https://eslint.org/) library.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-eslint-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-eslint-to-an-angular-application-ijl) in english.
 
